@@ -65,4 +65,4 @@ case "$response" in
 esac
 
 ### Script made by Bartixxx
-### Discord: Bartixxx:1904
+### Discord: Bartixxx#1904
